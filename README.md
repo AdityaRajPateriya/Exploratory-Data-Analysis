@@ -1,6 +1,6 @@
 # Exploratory Data Analysis 
   In this notebook, I have performed a detailed analysis on Indian Restaurants Dataset. 
-##Importing
+
  1. Preprocessing
  2. Exploring data
  3. Removing duplicates
